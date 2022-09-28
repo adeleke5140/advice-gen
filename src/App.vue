@@ -6,9 +6,9 @@ import AdviceCard from './components/AdviceCard.vue';
 <template>
   <span class="text-light-cyan text-xs mb-8 block">Click the dice to get random advice!</span>
   <AdviceCard/>
-  <div class="attribution text-light-cyan absolute bottom-0 lg:left-[45em]">
+  <div class="attribution text-light-cyan absolute bottom-0 lg:left-[37rem]">
     Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Coded by <a href="#">adeleke5140</a>.
+    Coded by <a href="https://github.com/adeleke5140">adeleke5140</a>.
   </div>
 </template>
 
